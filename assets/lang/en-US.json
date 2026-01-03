@@ -3,7 +3,7 @@
   "subtitle": "Student & developer",
   "projects": "Projects",
   "about": "I’m a programming enthusiast, always seeking to grow and fill the gaps in my knowledge. I find it exciting to create programs, fix bugs, and explore new techniques by learning from more experienced professionals.",
-  "tatakonDesc": "Project to develop a video game controller inspired by the traditional Japanese “Taiko” drum, using piezoelectric sensors integrated with an Arduino for touch detection and processing.",
+  "tatakonDesc": "raycasting",
   "portfolio": "Portfolio",
   "portfolioDesc": "Portfolio developed using HTML, CSS, and JavaScript throughout the entire application. The project features smooth animations, a responsive design, internationalization (i18n) supporting English and Portuguese languages, and a dark mode for an enhanced user experience.",
   "footer": "© 2025 Arthur Reis — Made with ⚽︎ in Brazil"
