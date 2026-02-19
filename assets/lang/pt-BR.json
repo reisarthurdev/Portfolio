@@ -1,9 +1,9 @@
 {
   "greeting": "Olá! Sou Arthur Reis",
-  "subtitle": "Estudante & desenvolvedor",
+  "subtitle": "Estudante & Desenvolvedor",
   "projects": "Projetos",
   "about": "Sou um entusiasta da programação, sempre buscando evoluir e preencher as lacunas no meu conhecimento. Acho empolgante criar programas, corrigir bugs e explorar novas técnicas aprendendo com profissionais mais experientes.",
-  "tatakonDesc": "raycasting",
+  "tatakonDesc": "Projeto de raycasting desenvolvido em Java utilizando apenas a biblioteca Swing para renderização gráfica, simulando um ambiente 3D a partir de um mapa 2D através de cálculos matemáticos de projeção de raios.",
   "portfolio": "Portfólio",
   "portfolioDesc": "Portfólio desenvolvido utilizando exclusivamente HTML, CSS e JavaScript ao longo de toda a aplicação. Conta com animações suaves, design responsivo, internacionalização (i18n) aos idiomas Inglês e Português, além de um modo noturno para melhor experiência do usuário.",
   "footer": "© 2025 Arthur Reis — Feito com ⚽︎ no Brasil"

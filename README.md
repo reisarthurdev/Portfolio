@@ -28,4 +28,4 @@ To enable language switching on the page without reloading or redirecting it, I 
 
 ## Behind the code
 
-After being just a regular website user my whole life, I began closely observing the approaches taken by developers of all kinds. The lack of responsiveness, visual clutter, absence of dark mode... I constantly reflect on the bad experiences I’ve had with websites over the years when building my own. With that in mind, I aim to provide anyone who visits my projects with a slightly above-average experience.
+After being just a regular website user my whole life, I began closely observing the approaches taken by developers of all kinds. The lack of responsiveness, visual clutter, absence of dark mode... I constantly reflect on the bad experiences I’ve had with websites over the years when building my own. With that in mind, I aim to provide anyone who visits my projects with a *slightly* above-average experience.

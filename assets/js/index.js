@@ -1,4 +1,4 @@
-// ------------------------ Navbar
+// Navbar
 let lastY = scrollY;
 const navbar = document.getElementById('navbar');
 
@@ -10,7 +10,7 @@ addEventListener('scroll', () => {
   lastY = currentY;
 });
 
-// ------------------------ Toggles (Ícone tema e idioma)
+// Ícone de tema e idioma
 document.addEventListener('DOMContentLoaded', () => {
   navbar.append(createLanguageToggle(), createThemeToggle());
   
