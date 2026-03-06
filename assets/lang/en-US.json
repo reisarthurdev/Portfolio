@@ -4,7 +4,12 @@
   "projects": "Projects",
   "about": "I’m a programming enthusiast, always seeking to grow and fill the gaps in my knowledge. I find it exciting to create programs, fix bugs, and explore new techniques by learning from more experienced professionals.",
   "tatakonDesc": "Raycasting project developed in Java using only the Swing library for graphical rendering, simulating a 3D environment from a 2D map through mathematical ray projection calculations.",
+  "scaffale":"Scaffale - Personal Reading Diary",
+  "scaffaleDesc":"Scaffale is a personal reading diary where you can search for books, organize your shelf, and log ratings and notes. It features an authentication system, light/dark theme, and built-in search powered by the Open Library API. It uses modern frameworks as Node.js, React.js, Tailwind CSS.",
+  "rayCasting":"Ray Casting Algorithm",
   "portfolio": "Portfolio",
   "portfolioDesc": "Portfolio developed using HTML, CSS, and JavaScript throughout the entire application. The project features smooth animations, a responsive design, internationalization (i18n) supporting English and Portuguese languages, and a dark mode for an enhanced user experience.",
+  "ubuntuServer":"Ubuntu Server",
+  "ubuntuServerDesc":"Linux Ubuntu server configuration featuring a DHCP server, dual NIC setup, two web application instances running Apache and Nginx connected to PostgreSQL and MariaDB respectively, file sharing via Samba, and a self-hosted personal cloud using Nextcloud, exposed to the web through Cloudflare Tunnels.",
   "footer": "© 2025 Arthur Reis — Made with ⚽︎ in Brazil"
 }
